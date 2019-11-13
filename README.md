@@ -1,3 +1,11 @@
 # Test_Tools
 
 这里是用于测试和处理tensorflow的一些工具文件
+
+包括
+根据csv批量转换图像格式
+根据csv批量移动复制删除文件
+测试tensorflow GPU是否安装成功
+把文件夹中的文件添加标签并保存为txt
+简单制作tfrecord
+简单读取tfrecord
